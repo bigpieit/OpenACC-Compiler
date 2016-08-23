@@ -8,15 +8,15 @@ When I compile with,
 
 I got a run time error:
 
-[bxli127@pc47 omni]$ ./rd2dacc__
-Matrix x is:__
-0.000000 1.000000 2.000000 3.000000__
-4.000000 5.000000 6.000000 7.000000__
-8.000000 9.000000 10.000000 11.000000__
+[bxli127@pc47 omni]$ ./rd2dacc<br />
+Matrix x is:<br />
+0.000000 1.000000 2.000000 3.000000<br />
+4.000000 5.000000 6.000000 7.000000<br />
+8.000000 9.000000 10.000000 11.000000<br />
 
-Initial matrix dist is:__
-0.000000 0.000000 0.000000__
-0.000000 0.000000 0.000000__
-0.000000 0.000000 0.000000__
-OpenACC runtime error: an illegal memory access was encountered__
-Abort (core dumped)__
+Initial matrix dist is:<br />
+0.000000 0.000000 0.000000<br />
+0.000000 0.000000 0.000000<br />
+0.000000 0.000000 0.000000<br />
+OpenACC runtime error: an illegal memory access was encountered<br />
+Abort (core dumped)<br />
